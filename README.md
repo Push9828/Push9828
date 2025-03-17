@@ -22,8 +22,6 @@
 
 [![Pushkar's github stats](https://github-readme-stats.vercel.app/api?username=Push9828&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/iabhishek07/github-readme-stats)
 
-[![HitCount](http://hits.dwyl.com/Push9828/Push9828.svg)](http://hits.dwyl.com/Push9828/Push9828)
-
 
 <i>Follow me:</i><br>
 
