@@ -3,7 +3,6 @@
 
 
 - 🔭 I’m currently working on React and nodejs
-- 🌱 I’m currently learning Gatsby 
 - 👯 I’m looking to collaborate on React projects
 - 🤔 I’m looking for help with some project idea
 - 💬 Ask me about Tech Stuff 💻
